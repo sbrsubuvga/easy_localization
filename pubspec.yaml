@@ -12,8 +12,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  intl: ">=0.16.0 <0.17.0"
-  shared_preferences: ">=0.5.7 <2.0.0"
+  intl: ^0.16.1
+  shared_preferences: ^0.5.12+2
   args: ^1.6.0
   path: ^1.6.4
   flutter_localizations:
